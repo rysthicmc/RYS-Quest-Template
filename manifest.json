@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "RYS Quest Template",
+    "description": "A Template made for item quests!",
+    "uuid": "f29e3284-aee2-32dc-3956-5cb6a0a8ac8b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "72713253-f3ff-3153-7f2e-370f67fcf127",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
